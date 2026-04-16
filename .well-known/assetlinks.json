@@ -3,10 +3,24 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.example.myapp.sit", 
+      "sha256_cert_fingerprints": ["81:B7:4F:FD:03:99:5E:CD:D6:F2:50:8A:02:AF:14:A0:AE:6D:4F:F3:D0:86:8F:BC:2B:3B:3A:A9:B1:85:5E:AD"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.myapp.uat",
+      "sha256_cert_fingerprints": ["81:B7:4F:FD:03:99:5E:CD:D6:F2:50:8A:02:AF:14:A0:AE:6D:4F:F3:D0:86:8F:BC:2B:3B:3A:A9:B1:85:5E:AD"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.example.myapp",
-      "sha256_cert_fingerprints": [
-        "14:6D:E9:83:C5:73:06:50:D8:EE:B9:95:2F:34:FC:64:16:A0:83:42:E6:1D:BE:A8:8A:04:96:B2:3F:CF:44:E5"
-      ]
+      "sha256_cert_fingerprints": ["81:B7:4F:FD:03:99:5E:CD:D6:F2:50:8A:02:AF:14:A0:AE:6D:4F:F3:D0:86:8F:BC:2B:3B:3A:A9:B1:85:5E:AD"]
     }
   }
 ]
