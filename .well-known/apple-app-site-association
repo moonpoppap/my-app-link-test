@@ -3,7 +3,15 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID1234.com.example.myapp",
+        "appID": "2MK96693C9.com.example.myAppLinkTest.sit",
+        "paths": [ "*" ]
+      },
+      {
+        "appID": "2MK96693C9.com.example.myAppLinkTest.uat",
+        "paths": [ "*" ]
+      },
+      {
+        "appID": "2MK96693C9.com.example.myAppLinkTest.prod",
         "paths": [ "*" ]
       }
     ]
