@@ -3,15 +3,15 @@
     "apps": [],
     "details": [
       {
-        "appID": "2MK96693C9.com.example.myAppLinkTest.sit",
+        "appID": "2MK96693C9.com.moonpoppap.myAppLinkTest.sit",
         "paths": [ "*" ]
       },
       {
-        "appID": "2MK96693C9.com.example.myAppLinkTest.uat",
+        "appID": "2MK96693C9.com.moonpoppap.myAppLinkTest.uat",
         "paths": [ "*" ]
       },
       {
-        "appID": "2MK96693C9.com.example.myAppLinkTest.prod",
+        "appID": "2MK96693C9.com.moonpoppap.myAppLinkTest.prod",
         "paths": [ "*" ]
       }
     ]
